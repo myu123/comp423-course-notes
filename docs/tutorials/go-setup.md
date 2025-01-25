@@ -64,6 +64,16 @@ Before starting, ensure you have the following installed on your system:
    git add .devcontainer
    git commit -m "Add dev container configuration"
    ```
+   
+    
+!!! important
+      In step 3 inside the image url, the "1" in `go:1` refers to a specific version of go - Ayush Pai.
+
+---
+   
+
+
+
 
 #### Explanation of the `devcontainer.json` file
 
@@ -108,6 +118,14 @@ Before starting, ensure you have the following installed on your system:
    git add main.go go.mod
    git commit -m "Add basic Go project with Hello COMP423"
    ```
+
+  
+
+!!! note
+      You can also just use `git add .` instead of `git add main.go go.mod` - Ayush Pai.
+
+---
+
 
 ### Step 6: Compile and Run the Project in the Dev Container
 

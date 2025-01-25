@@ -86,7 +86,7 @@ Before starting, ensure you have the following installed on your system:
 1. From the Command Palette:
    - **Windows/Linux**: Press `Ctrl+Shift+P`.
    - **Mac**: Press `Cmd+Shift+P`.
-2. Select **Reopen in Container**.
+2. Search for and select **Dev Containers: Reopen in Container**.
 3. Wait for the container to build and initialize.
 
 ### Step 5: Initialize a Go Project in the Dev Container
